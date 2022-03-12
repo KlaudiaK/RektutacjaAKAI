@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rekrutacja</string>
+    <string name="firstButtonText">Ukryj obrazek</string>
+    <string name="secondButtonText">Pokaż obrazek</string>
+    <string name="bothButtonText">Kliknij Mnie</string>
+    <string name="backButtonText">Wróć</string>
+    <string name="buttonText">PRZYCISK</string>
+    <string name="myButtonText">My Button</string>
+    <string name="clickButtonText">Kliknij Mnie</string>
+</resources>
